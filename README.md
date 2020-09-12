@@ -1,6 +1,6 @@
 # [Budget calculator](https://calculate-budget.netlify.app/ 'Go to live demo')
 
-**Budget calculator** Managing a monthly budget can be difficult and frustrating. One of the most important aspects of controlling the budget is to determine where money is going. This budget calculator helps you do just that. By entering incomes and expenditures, view how much money is left to save and how much money is being spent. this App can help you solve this problem so you can manage your spending easily.
+Managing a monthly budget can be difficult and frustrating. One of the most important aspects of controlling the budget is to determine where money is going. This budget calculator helps you do just that. By entering incomes and expenditures, view how much money is left to save and how much money is being spent. [Budget calculator](https://calculate-budget.netlify.app/) is here to help you solve this problem so you can manage your spending easily.
 
 ### How to use
 
