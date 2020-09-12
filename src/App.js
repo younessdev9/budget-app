@@ -101,10 +101,10 @@ function App() {
       <h1>
         total spending :{' '}
         <span className="total">
-          $
           {expenses.reduce((acc, curr) => {
             return (acc += parseInt(curr.amount));
-          }, 0)}
+          }, 0)}{' '}
+          $
         </span>
       </h1>
     </>
@@ -112,7 +112,3 @@ function App() {
 }
 
 export default App;
-
-// { id: uuidv4(), charge: 'rent', amount: 1600 },
-// { id: uuidv4(), charge: 'car payment', amount: 400 },
-// { id: uuidv4(), charge: 'credit card bill', amount: 1200 },
