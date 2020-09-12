@@ -14,7 +14,7 @@
 
 ### stuck
 
-All of this feature mentioned above built with **JavaScript** using **React** and **React Hooks** for the state
+All of this feature mentioned above built with **JavaScript** using **React** and **React Hooks**
 
 and using pure css for the Styling and using react-icons package for icons
 
